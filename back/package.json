@@ -9,6 +9,7 @@
   "author": "minkk",
   "license": "MIT",
   "dependencies": {
+    "bcrypt": "^5.1.0",
     "express": "^4.18.2",
     "mysql2": "^3.4.2",
     "sequelize": "^6.32.1",
